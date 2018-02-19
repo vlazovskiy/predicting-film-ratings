@@ -1,0 +1,1 @@
+I was scraping around 50,000 films and decided to run 50 nearly identical notebooks simultaneously. I did this to catch unexpected errors, like dynamic ads on pages which block Selenium, and weird pages which had no information on them.
